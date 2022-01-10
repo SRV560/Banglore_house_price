@@ -19,8 +19,6 @@ certifi==2021.5.30
 clang==5.0
 click==7.1.2
 comtypes==1.1.10
-conda-build==3.21.4
-conda-verify==3.4.2
 cycler==0.10.0
 cytoolz==0.11.0
 EasyProcess==0.3
