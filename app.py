@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import json
 
-app = Flask(__name__,template_folder='/home/ubuntu')
+app = Flask(__name__)
 
 app.config.update(
     dict(SECRET_KEY="powerful secretkey", WTF_CSRF_SECRET_KEY="a csrf secret key")
